@@ -31,6 +31,11 @@
   filter: brightness(40%);
   
 }
+.nav #logo{
+    color: white;
+    font-size: 30px;
+    text-decoration: none;
+  }
 .nav{
   padding: 0 20px;
   display: flex;
